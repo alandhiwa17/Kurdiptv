@@ -257,9 +257,9 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:79:AA:08&stream=1310865&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=201934&extension=ts&play_token=ggrwwoaspL
 #EXTINF:0 CUID="10017" tvg-name="Astera Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTswyzf4Bd8sD7LK6LKiD85Mo6d6KH6czyW1DxLwwqRg4n9Q0EOwkurzGTszdo5VVC0OZg&usqp=CAU" group-title="Kurdish",Astera Movies
 http://streamcdn.us:8080/live/98778676754/88526902544/141629.ts
-#EXTINF:0 CUID="1" tvg-name="4 Kurd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN_Y4UTF3rLIZtC_aMLdX9vrp6yYEoY26kDA&s" group-title="Kurdish",
+#EXTINF:0 CUID="10018" tvg-name="4 Kurd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN_Y4UTF3rLIZtC_aMLdX9vrp6yYEoY26kDA&s" group-title="Kurdish",
 https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:0 CUID="3" tvg-name="Avar HD" tvg-logo="http://widget.ottplayer.tv/upictures/0e258704-fca8-4a9f-a037-1ae83230e15c.png" group-title="Kurdish",
+#EXTINF:0 CUID="10019" tvg-name="Avar HD" tvg-logo="http://widget.ottplayer.tv/upictures/0e258704-fca8-4a9f-a037-1ae83230e15c.png" group-title="Kurdish",
 http://avrstream.com:1935/live/AvarTv/playlist.m3u8
 #EXTINF:0 CUID="4" tvg-name="Babuly" tvg-logo="" group-title="Kurdish",
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=202070&extension=ts&play_token=vUIHx9GDRG
