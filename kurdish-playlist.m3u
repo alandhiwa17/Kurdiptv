@@ -1,0 +1,53 @@
+#EXTM3U
+
+######################
+#  Kurdish TV
+######################
+
+#EXTINF:-1 tvg-id="kurdistantv" tvg-name="Kurdistan TV" group-title="Kurdish",Kurdistan TV
+http://YOUR-LINK/kurdistan.m3u8
+
+#EXTINF:-1 tvg-id="rudaw" tvg-name="Rudaw TV" group-title="Kurdish",Rudaw TV
+http://YOUR-LINK/rudaw.m3u8
+
+#EXTINF:-1 tvg-id="nrt" tvg-name="NRT TV" group-title="Kurdish",NRT TV
+http://YOUR-LINK/nrt.m3u8
+
+#EXTINF:-1 tvg-id="k24" tvg-name="K24 TV" group-title="Kurdish",K24 TV
+http://YOUR-LINK/k24.m3u8
+
+#EXTINF:-1 tvg-id="kurdsat" tvg-name="Kurdsat" group-title="Kurdish",Kurdsat
+http://YOUR-LINK/kurdsat.m3u8
+
+#EXTINF:-1 tvg-id="kurdsatnews" tvg-name="Kurdsat News" group-title="Kurdish",Kurdsat News
+http://YOUR-LINK/kurdsatnews.m3u8
+
+#EXTINF:-1 tvg-id="speda" tvg-name="Speda TV" group-title="Kurdish",Speda TV
+http://YOUR-LINK/speda.m3u8
+
+#EXTINF:-1 tvg-id="gali" tvg-name="Gali Kurdistan" group-title="Kurdish",Gali Kurdistan
+http://YOUR-LINK/gali.m3u8
+
+######################
+#  Kurdish News
+######################
+
+#EXTINF:-1 tvg-name="NRT Arabic" group-title="Kurdish News",NRT Arabic
+http://YOUR-LINK/nrt-ar.m3u8
+
+#EXTINF:-1 tvg-name="Rudaw Arabic" group-title="Kurdish News",Rudaw Arabic
+http://YOUR-LINK/rudaw-ar.m3u8
+
+######################
+#  Kurdish Music
+######################
+
+#EXTINF:-1 tvg-name="Kurdish Music TV" group-title="Kurdish Music",Kurdish Music
+http://YOUR-LINK/music.m3u8
+
+######################
+#  Kurdish Kids
+######################
+
+#EXTINF:-1 tvg-name="Kurd Kids TV" group-title="Kurdish Kids",Kurd Kids TV
+http://YOUR-LINK/kids.m3u8
