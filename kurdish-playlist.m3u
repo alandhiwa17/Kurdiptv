@@ -260,6 +260,16 @@ http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=932151&extension=
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=1035273&extension=ts&play_token=clxE0LzCnB
 #EXTINF:0 CUID="10003" tvg-name="Ace Quran" tvg-logo="https://i.ibb.co/7dTczMnj/IMG-1786.jpg" group-title="Kurdish",Ace Quran
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=1035269&extension=ts&play_token=EWSJqzcos9
+#EXTINF:0 CUID="10004" tvg-name="Ace Arabic" tvg-logo="https://i.ibb.co/JFBQ9znR/IMG-1793.jpg" group-title="Kurdish",Ace Arabic
+http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=1035270&extension=ts&play_token=jOYhVMz3am
+#EXTINF:0 CUID="10005" tvg-name="Ace Doc Kurd" tvg-logo="https://i.ibb.co/GQZjMgzM/IMG-1792.jpg" group-title="Kurdish",Ace Doc Kurd
+http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=932078&extension=ts&play_token=7tbVI4pbU1
+#EXTINF:0 CUID="10006" tvg-name="Ace Gaming" tvg-logo="https://i.ibb.co/HTL4YvgG/IMG-1791.jpg" group-title="Kurdish",Ace Gaming
+http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=1035274&extension=ts&play_token=ehaXqWd9sg
+#EXTINF:0 CUID="10007" tvg-name="Ace Kids" tvg-logo="https://i.ibb.co/DDszmL0K/IMG-1789.jpg" group-title="Kurdish",Ace Kids
+http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=1035272&extension=ts&play_token=yRPipRG8H7
+#EXTINF:0 CUID="10008" tvg-name="Ace Movies" tvg-logo="https://i.ibb.co/mrkxRkTF/IMG-1787.jpg" group-title="Kurdish",Ace Movies
+http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=1035271&extension=ts&play_token=9EnlBRDxuc
 ######################
 #  Kurdish News
 ######################
@@ -283,3 +293,15 @@ http://YOUR-LINK/music.m3u8
 
 #EXTINF:-1 tvg-name="Kurd Kids TV" group-title="Kurdish Kids",Kurd Kids TV
 http://YOUR-LINK/kids.m3u8
+
+######################
+#  Arabic
+######################
+#EXTINF:0 CUID="10009" tvg-name="Al Iraqia News" tvg-logo="" group-title="Arabic",Al Iraqia News
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:0 CUID="10010" tvg-name="Al Jazera" tvg-logo="https://www.aljazeera.net/static/media/aj-logo-white.24cf5afb.svg" group-title="Arabic",Al Jazera
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:0 CUID="10011" tvg-name="Al Jazera Mubasher" tvg-logo="" group-title="Arabic",Al Jazera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
+#EXTINF:0 CUID="10012" tvg-name="Al Sharqya News" tvg-logo="http://widget.ottplayer.tv/upictures/841b75fe-9546-442f-8826-c7d856aaf9b1.png" group-title="Arabic",Al Sharqya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1408895114.m3u8
