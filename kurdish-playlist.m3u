@@ -86,7 +86,6 @@ http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w469474030_b1700000_sleng_t64MTA4MHA=.m3u8
 #EXTINF:0 CUID="8537" tvg-name="KHAK TV" tvg-logo="https://i.postimg.cc/44C801bx/khak.png" group-title="KURDISH ",KHAK TV
 http://bblserver.ddns.net:1935/stream/khakhd/hawezhd.m3u8
-
 #EXTINF:0 CUID="8539" tvg-name="zaroktv" tvg-logo="https://i.postimg.cc/J8x0qQhq/ZARO.png" group-title="KURDISH ",zaroktv
 https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 #EXTINF:0 CUID="8540" tvg-name="Pro TV Quran" group-title="KURDISH ",Pro TV Quran
