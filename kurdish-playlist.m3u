@@ -270,6 +270,16 @@ http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=1035274&extension
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=1035272&extension=ts&play_token=yRPipRG8H7
 #EXTINF:0 CUID="10008" tvg-name="Ace Movies" tvg-logo="https://i.ibb.co/mrkxRkTF/IMG-1787.jpg" group-title="Kurdish",Ace Movies
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=1035271&extension=ts&play_token=9EnlBRDxuc
+#EXTINF:0 CUID="10013" tvg-name="Astera Baby" tvg-logo="https://i.ibb.co/FLYM0Nt6/IMG-1869.jpg" group-title="Kurdish",Astera Baby
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=1310844&extension=ts&play_token=4L0Usg395E
+#EXTINF:0 CUID="10014" tvg-name="Astera Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhj8zWSfvxaLqcJ-a0YgZIIS2axG8jko6ZZg&s" group-title="Kurdish",Astera Family
+http://aquablue.boats:80/play/live.php?mac=00:1A:79:AF:6D:AD&stream=638716&extension=ts&play_token=Kdj4bEgBrD
+#EXTINF:0 CUID="10015" tvg-name="Astera Culuter" tvg-logo="https://i.ibb.co/PGLj4d9H/IMG-1804.jpg" group-title="Kurdish",Astera Culuter
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:79:AA:08&stream=1310865&extension=ts&play_token=ZqltMNhj2J
+#EXTINF:0 CUID="10016" tvg-name="Astera Doc" tvg-logo="https://i.ibb.co/Jj6x3qYD/IMG-1864.jpg" group-title="Kurdish",Astera Doc
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=201934&extension=ts&play_token=ggrwwoaspL
+#EXTINF:0 CUID="10017" tvg-name="Astera Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTswyzf4Bd8sD7LK6LKiD85Mo6d6KH6czyW1DxLwwqRg4n9Q0EOwkurzGTszdo5VVC0OZg&usqp=CAU" group-title="Kurdish",Astera Movies
+http://streamcdn.us:8080/live/98778676754/88526902544/141629.ts
 ######################
 #  Kurdish News
 ######################
