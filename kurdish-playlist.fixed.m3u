@@ -15,7 +15,7 @@ http://baskhd.ddns.net:40/live/QURANHDTV/HawezHD.m3u8
 #EXTINF:0 CUID="8498" tvg-name="IMK QURAN HD" tvg-logo="https://i.postimg.cc/w6hM1JNc/IMK.png" group-title="Kurdish",IMK QURAN HD
 http://avrstream.com:1935/live/IMKQURANHD/HawezHD.m3u8
 #EXTINF:0 CUID="8499" tvg-name="EMAN" tvg-logo="https://i.postimg.cc/yB4Bc8M3/eman.png" group-title="Kurdish",EMAN
-http://avrstream.com:1935/live/emantv/playlist.m3u8
+http://avrstream.com:1935/live/emantv/chunklist_w1408934343.m3u8
 #EXTINF:0 CUID="8500" tvg-name="Sroshty" tvg-logo="https://yt3.googleusercontent.com/5zf0Nk7ILDXD8A-nPmt2UqacTY3DBvYXApU3HV42Znd4W3iBSHhQfImCuZgQIxykUUwFoMtJ=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish",Sroshty
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:79:AA:08&stream=1310824&extension=ts&play_token=YDqfjGrmzG
 #EXTINF:0 CUID="8501" tvg-name="ESRA TV 1" tvg-logo="https://i.postimg.cc/6tNVZW4B/ESRA.jpg" group-title="Kurdish",ESRA TV 1
@@ -344,9 +344,12 @@ http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:80:4B:12&stream=1858958&extens
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:0 CUID="63" tvg-name="Xabir FM" tvg-logo="https://imgs.search.brave.com/30MrMETpS8GLf7Ja0u58kldgxZr6K_CfNWCa5A9IPsI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly95dDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL3l0/Y[...]" group-title="Kurdish",Xabir FM
 http://royalibox.com/play/live.php?mac=00:1A:79:4B:99:EA&stream=456279&extension=ts&play_token=CLoU7aEgQ1
-#EXTINF:0 CUID="10021" tvg-name="Bahra HD" tvg-logo="" group-title="Kurdish",Bahra HD
+#EXTINF:0 CUID="10021" tvg-name="Bahra HD" tvg-logo="https://karwan.tv/wp-content/uploads/bahra-tv.jpeg" group-title="Kurdish",Bahra HD
 http://51.89.152.180:80/live/BahraHD/chunks.m3u8
-
+#EXTINF:0 CUID="10021" tvg-name="Ava Seris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkmDjE3pzhRKslNYNWNjysJ7UvniWvuxQGyg&s" group-title="Kurdish",Ava Seris
+https://avaserieshls.wns.live/hls/stream.m3u8#03ca652a1ae0a675e050fe20e4eb8c876711a5827f7d4b1397803d4a1cf59482
+#EXTINF:0 CUID="10021" tvg-name="Ashty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJiypUJ97Qg9lYPaHS576XsKTXLihnxVq1AA&s" group-title="Kurdish",Ashty
+http://avrstream.com:1935/live/AshtiTV/chunklist_w1393568397.m3u8
 ######################
 #  Kurdish Kids
 ######################
@@ -374,7 +377,8 @@ https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
 https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 #EXTINF:0 CUID="65" tvg-name="Zarok Sorani" tvg-logo="https://i.ibb.co/xSCTrpf1/IMG-1795.jpg" group-title="Kurdish Kids",Zarok Sorani
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-
+#EXTINF:0 CUID="65" tvg-name="Gewher Kids" tvg-logo="https://yt3.googleusercontent.com/uGak22LOT7AN1k2s2i8db05zbBzly8Ts5hs530SqN0Fd1YTKSIQE-v6Xd4uPwNgiM--Kl3PAYA=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish Kids",Gewher Kids
+https://cdn.karwan.tv/gewher-kids/tracks-v1a1/mono.m3u8
 
 ######################
 #  Arabic
@@ -405,7 +409,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0a
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:0 CUID="59" tvg-name="Trt Arabic" tvg-logo="https://yt3.googleusercontent.com/gYgMDstQrKquZlKMpynGak3fik58-0UdhvIFvRNk8Z1KAGDzn6Kuz8uULtWRwVM3bJcqBuWfxQ=s900-c-k-c0x00ffffff-no-rj" group-title="Arabic",Trt Arabic
 https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8
-
+#EXTINF:0 CUID="59" tvg-name="Shams" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXXtquqFWngYCp2t-JyFa5sRJCzzVt7Hu6IQ&s" group-title="Arabic",Shams
+https://stream.shams.tv/hls/0/stream.m3u8
 
 ######################
 #  Sport VIP
@@ -423,7 +428,10 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunkli
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=930281&extension=ts&play_token=yjk0GdUSnR
 #EXTINF:0 CUID="48" tvg-name="Real Madrid" tvg-logo="https://fusion.molotov.tv/arts/i/446x588/Ch8SHQoUUdgCAnSzOu3aFKZNFjXccHt3u4USA2pwZxgBCh8IARIbChTvLK177vsQceQNEQ8W-Bo58gs1-BIDcG5n/jpg" group-title="Sport VIP",Real Madrid
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-
+#EXTINF:0 CUID="5" tvg-name="MMN Sport" tvg-logo="https://karwan.tv/wp-content/uploads/mmn-tv.png" group-title="Sport VIP",MMN Sport 
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w29500582.m3u8
+#EXTINF:0 CUID="5" tvg-name="Nrt Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUd9RbEegspsrdEn_7zcZ7FETJEncHGDE-OQ&s" group-title="Sport VIP",Nrt Sport 
+https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
 ######################
 #  Bein VIP
 ######################
