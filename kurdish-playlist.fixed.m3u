@@ -344,7 +344,8 @@ http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:80:4B:12&stream=1858958&extens
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:0 CUID="63" tvg-name="Xabir FM" tvg-logo="https://imgs.search.brave.com/30MrMETpS8GLf7Ja0u58kldgxZr6K_CfNWCa5A9IPsI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly95dDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL3l0/Y[...]" group-title="Kurdish",Xabir FM
 http://royalibox.com/play/live.php?mac=00:1A:79:4B:99:EA&stream=456279&extension=ts&play_token=CLoU7aEgQ1
-
+#EXTINF:0 CUID="10021" tvg-name="Bahra HD" tvg-logo="" group-title="Kurdish",Bahra HD
+http://51.89.152.180:80/live/BahraHD/chunks.m3u8
 
 ######################
 #  Kurdish Kids
