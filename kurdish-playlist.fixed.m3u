@@ -423,3 +423,25 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunkli
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=930281&extension=ts&play_token=yjk0GdUSnR
 #EXTINF:0 CUID="48" tvg-name="Real Madrid" tvg-logo="https://fusion.molotov.tv/arts/i/446x588/Ch8SHQoUUdgCAnSzOu3aFKZNFjXccHt3u4USA2pwZxgBCh8IARIbChTvLK177vsQceQNEQ8W-Bo58gs1-BIDcG5n/jpg" group-title="Sport VIP",Real Madrid
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+######################
+#  Bein VIP
+######################
+#EXTINF:0 CUID="10022" tvg-name="beIN Sports 1" tvg-logo="" group-title="Sports",beIN Sports 1
+http://zngma.com/live/fererrachidmousaif/00:c3:f4:90:cd:29/153582.ts
+#EXTINF:0 CUID="10024" tvg-name="beIN Sports 2" tvg-logo="" group-title="Sports",beIN Sports 2
+http://zngma.com/live/fererrachidmousaif/00:c3:f4:90:cd:29/7755.ts
+#EXTINF:0 CUID="10025" tvg-name="beIN Sports 3" tvg-logo="" group-title="Sports",beIN Sports 3
+http://zngma.com/live/fererrachidmousaif/00:c3:f4:90:cd:29/7749.ts
+#EXTINF:0 CUID="10026" tvg-name="beIN Sports 4" tvg-logo="" group-title="Sports",beIN Sports 4
+http://zngma.com/live/fererrachidmousaif/00:c3:f4:90:cd:29/7754.ts
+#EXTINF:0 CUID="10027" tvg-name="beIN Sports 5" tvg-logo="" group-title="Sports",beIN Sports 5
+http://zngma.com/live/fererrachidmousaif/00:c3:f4:90:cd:29/7753.ts
+#EXTINF:0 CUID="10028" tvg-name="beIN Sports 6" tvg-logo="" group-title="Sports",beIN Sports 6
+http://zngma.com/live/fererrachidmousaif/00:c3:f4:90:cd:29/7752.ts
+#EXTINF:0 CUID="10030" tvg-name="beIN Sports 7" tvg-logo="" group-title="Sports",beIN Sports 7
+http://zngma.com/live/fererrachidmousaif/00:c3:f4:90:cd:29/153589.ts
+#EXTINF:0 CUID="10031" tvg-name="beIN Sports 8" tvg-logo="" group-title="Sports",beIN Sports 8
+http://zngma.com/live/fererrachidmousaif/00:c3:f4:90:cd:29/7750.ts
+#EXTINF:0 CUID="10032" tvg-name="beIN Sports 9" tvg-logo="" group-title="Sports",beIN Sports 9
+http://zngma.com/live/fererrachidmousaif/00:c3:f4:90:cd:29/7747.ts
