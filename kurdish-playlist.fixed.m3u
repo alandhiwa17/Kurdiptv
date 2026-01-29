@@ -304,6 +304,10 @@ http://streamcdn.us:8080/live/98778676754/88526902544/147422.ts
 http://aquablue.boats:80/play/live.php?mac=00:1A:79:AF:6D:AD&stream=638713&extension=ts&play_token=nlYeYK6NwQ
 #EXTINF:0 CUID="36" tvg-name="Lalav Group" tvg-logo="https://i.ibb.co/KcvPBMMN/IMG-1858.jpg" group-title="Kurdish",Lalav Group
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:79:AA:08&stream=1310903&extension=ts&play_token=9RJTpvyiDd
+#EXTINF:0 CUID="1000" tvg-name="Ld Nujin" tvg-logo="https://yt3.googleusercontent.com/IVyku6yuvBkRt11arMdoCalnWhZRP-ZtkT2bmRYw4gKnZTbZKoWJXMiim9RMxwb7dvB9aqEsHw=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish",Ld Nujien
+http://sonymax.org:8080/live/vakkasekmen/F0gj8WTe2j/378192.ts
+#EXTINF:0 CUID="1000" tvg-name="Ld Anime" tvg-logo="https://yt3.googleusercontent.com/7mIPCXUSF29D0da6LQ4KTXv3sNc5XXob4RK3WEdTrrumGtb7g5aBr1-D-_iOA0-ZCPB54L27=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish",Ld Anime
+http://013tv.com:8080/F16077/2d3a2abc/300727
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpUzhZZxDPCH_JZlfvI8kk6hdQ-azB7tXufg&s" group-title="Kurdish",Like Movies +
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=932110&extension=ts&play_token=AaB1H11RaY
 #EXTINF:0 CUID="37" tvg-name="Mahabad HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Mahabad_TV.png" group-title="Kurdish",Mahabad HD
@@ -343,13 +347,24 @@ http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:80:4B:12&stream=1858958&extens
 #EXTINF:0 CUID="62" tvg-name="Wild Earth" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5B9oM14aJWsr11m_qRsRDIGArp_nqVJuSPA&s" group-title="Kurdish",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:0 CUID="63" tvg-name="Xabir FM" tvg-logo="https://imgs.search.brave.com/30MrMETpS8GLf7Ja0u58kldgxZr6K_CfNWCa5A9IPsI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly95dDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL3l0/Y[...]" group-title="Kurdish",Xabir FM
-http://royalibox.com/play/live.php?mac=00:1A:79:4B:99:EA&stream=456279&extension=ts&play_token=CLoU7aEgQ1
+http://new.vivatvs.uk:8080/live/c18zdcfgor/p0tqfl03fz/456279.ts
 #EXTINF:0 CUID="10021" tvg-name="Bahra HD" tvg-logo="https://karwan.tv/wp-content/uploads/bahra-tv.jpeg" group-title="Kurdish",Bahra HD
 http://51.89.152.180:80/live/BahraHD/chunks.m3u8
 #EXTINF:0 CUID="10021" tvg-name="Ava Seris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkmDjE3pzhRKslNYNWNjysJ7UvniWvuxQGyg&s" group-title="Kurdish",Ava Seris
 https://avaserieshls.wns.live/hls/stream.m3u8#03ca652a1ae0a675e050fe20e4eb8c876711a5827f7d4b1397803d4a1cf59482
 #EXTINF:0 CUID="10021" tvg-name="Ashty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJiypUJ97Qg9lYPaHS576XsKTXLihnxVq1AA&s" group-title="Kurdish",Ashty
 http://avrstream.com:1935/live/AshtiTV/chunklist_w1393568397.m3u8
+#EXTINF:0 CUID="10021" tvg-name="Fox Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0MM-MmxYm3TLhgAmJJH-_mUtJMQiDCvby7w&s" group-title="Kurdish",Fox Music
+http://93.186.201.144:8080/live/Aso0/aso/24111.ts?token=SUYNUUNYG1lEUlJUXVVRXQMGAFEGAgJVX1BXBANXDQACBQNRUgkJUVATT0EXEhcBVFhnClZGW1RSAlIDGhdBR1cWOllUEgNBVwJQVFZESUZBXFUGEF5QUVALVAcDDQACHkYVWVQSA0FUAFpQXVRRRhkXXRtGARMIB188VlNDXVdXRl9eRVxVT0ReDTwAAwgFW1EaWRBVQ0pEWhBCFA9aQV4ISRJSWU0RB0UGQV5EV1YBBhpPEAcOEwhHEUsUDxZ9Y0ZJElVITQYIQgoMCkRfRkFGGk8QDRI5FFYQRkRQVVlXFkcKEgAbT0RcAhs7BQoKW1BbF1sLDxVECUEDBgUEFh5GCF9eWU0MFG4TCgBEX0YEBQFRAFxXRBs=
+#EXTINF:0 CUID="10021" tvg-name="Nzae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0MM-MmxYm3TLhgAmJJH-_mUtJMQiDCvby7w&s" group-title="Kurdish",Nzar
+http://93.186.201.144:8080/live/Aso0/aso/23322.ts?token=SUYNUUNYG1lEUwdWAVEGUAIEAVEFVFRTXwBSAARXAgwBV1ZVVQkMV1ATT0EXEhcBVFhnClZGW1RVAFEAGhdBR1cWOllUEgNBVwJQVFZESUZBXFUGEF5QUVAEUwMOBwAGHkYVWVQSA0FVBFRTUF5URhkXXRtGARMIB188VlNDXVdXRl9eRVxVT0ReDTwAAwgFW1EaWRBVQ0pEWhBCFA9aQV4ISRJSWU0RB0UGQV5EV10GAxpPEAcOEwhHEUsUDxZ9Y0ZJElVITQYIQgoMCkRfRkFGGk8QDRI5FFYQRkRQVVlXFkcKEgAbT0RcAhs7BQoKW1BbF1sLDxVECUEDBgUEFh5GCF9eWU0MFG4TCgBEX0YCAABTC0Yc
+#EXTINF:0 CUID="10021" tvg-name="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0MM-MmxYm3TLhgAmJJH-_mUtJMQiDCvby7w&s" group-title="Kurdish",Mvs
+http://93.186.201.104:8080/live/Aso0/aso/24172.ts?token=SUYNUUNYG1lEBFVbUgdcUQNRD1dWVlQAVFZTBlAAAVBQVlAECVMKBVUTT0EXEhcBVFhnClZGW1RSAlQAGhdBR1cWOllUEgNBVwJQVFZESUZBXFUGEF5QUVAEWwoEAQ0NHkYVWVQSA0FVAVNVVVVRRhkXXRtGARMIB188VlNDXVdXRl9eRVxVT0ReDTwAAwgFW1EaWRBVQ0pEWhBCFA9aQV4ISRJSWU0RB0UGQV5EV1YHARpPEAcOEwhHEUsUDxZ9Y0ZJElVITQYIQgoMCkRfRkFGGk8QDRI5FFYQRkRQVVlXFkcKEgAbT0RcAhs7BQoKW1BbF1sLDxVECUEDBgUEFh5GCF9eWU0MFG4TCgBEX0YCBQ9RCkYc
+#EXTINF:0 CUID="10021" tvg-name="Chihan" tvg-logo="https://yt3.googleusercontent.com/xZcD23zdbAHrKgHtbRi6xR-ZigxhgLfxZQ5z-aJstkmjWvZBpcFPo6-JEjSPU38hOwdlrZ0pIw=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish",Chihan
+http://firstclass007.com:8080/play/live.php?mac=00:2A:01:91:78:68&stream=802149&extension=ts&play_token=Eh4kOocf0S
+#EXTINF:0 CUID="10021" tvg-name="dtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/DTV_logo.svg/500px-DTV_logo.svg.png" group-title="Kurdish",dtv
+http://new.vivatvs.uk:8080/live/c18zdcfgor/p0tqfl03fz/456279.ts
+
 ######################
 #  Kurdish Kids
 ######################
@@ -379,7 +394,6 @@ https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:0 CUID="65" tvg-name="Gewher Kids" tvg-logo="https://yt3.googleusercontent.com/uGak22LOT7AN1k2s2i8db05zbBzly8Ts5hs530SqN0Fd1YTKSIQE-v6Xd4uPwNgiM--Kl3PAYA=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish Kids",Gewher Kids
 https://cdn.karwan.tv/gewher-kids/tracks-v1a1/mono.m3u8
-
 ######################
 #  Arabic
 ######################
@@ -432,6 +446,8 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w29500582.m3u8
 #EXTINF:0 CUID="5" tvg-name="Nrt Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUd9RbEegspsrdEn_7zcZ7FETJEncHGDE-OQ&s" group-title="Sport VIP",Nrt Sport 
 https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
+#EXTINF:0 CUID="5" tvg-name="LD Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsCkaun0MCcKSyV1wbF7ypFE60p9PaSrC4yw&s" group-title="Sport VIP",LD Sport 
+http://109.123.245.192/Ldsport/tracks-v1a1/mono.m3u8
 ######################
 #  Bein VIP
 ######################
