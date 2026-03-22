@@ -17,7 +17,7 @@ http://avrstream.com:1935/live/IMKQURANHD/HawezHD.m3u8
 #EXTINF:0 CUID="8499" tvg-name="EMAN" tvg-logo="https://i.postimg.cc/yB4Bc8M3/eman.png" group-title="Kurdish",EMAN
 http://avrstream.com:1935/live/emantv/chunklist_w1408934343.m3u8
 #EXTINF:0 CUID="8500" tvg-name="Sroshty" tvg-logo="https://yt3.googleusercontent.com/5zf0Nk7ILDXD8A-nPmt2UqacTY3DBvYXApU3HV42Znd4W3iBSHhQfImCuZgQIxykUUwFoMtJ=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish",Sroshty
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:79:AA:08&stream=1310824&extension=ts&play_token=YDqfjGrmzG
+http://109.71.252.138/Sroshtyusfstore/index.m3u8?token=hnaKCXHetrygerteL5cys1
 #EXTINF:0 CUID="8501" tvg-name="ESRA TV 1" tvg-logo="https://i.postimg.cc/6tNVZW4B/ESRA.jpg" group-title="Kurdish",ESRA TV 1
 https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8
 #EXTINF:0 CUID="8502" tvg-name="ESRA TV 2" tvg-logo="https://i.postimg.cc/9VZb67Kp/essra2.png" group-title="Kurdish",ESRA TV 2
@@ -39,13 +39,13 @@ http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/playlist.m3u8
 #EXTINF:0 CUID="8510" tvg-name="AVA TV HD" tvg-logo="https://i.postimg.cc/GbX6v0gL/ava-1.png" group-title="Kurdish",AVA TV HD
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 #EXTINF:0 CUID="8511" tvg-name="NRT HD" tvg-logo="https://i.postimg.cc/yVVqtpnh/NRT.png" group-title="Kurdish",NRT HD
-https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
+http://109.71.252.138/NRT/index.m3u8
 #EXTINF:0 CUID="8512" tvg-name="NRT 2" tvg-logo="https://i.postimg.cc/JRwv9XjG/nrt2-2.png" group-title="Kurdish",NRT 2
-https://ca-rt.onetv.app/NRT2/index-0.m3u8
+https://ca-rt.onetv.app/NRT2/index-0.m3u8?token=onetv202
 #EXTINF:0 CUID="8514" tvg-name="NRT 4" tvg-logo="https://i.postimg.cc/594N5G2W/NRT4.png" group-title="Kurdish",NRT 4
 https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
 #EXTINF:0 CUID="8515" tvg-name="RUDAW HD" tvg-logo="https://i.postimg.cc/rpTvrtr0/Pics-Art-25-08-01-14-36-12-848.png" group-title="Kurdish",RUDAW HD
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv_source/chunks.m3u8
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:0 CUID="8516" tvg-name="K24 FHD" tvg-logo="https://i.postimg.cc/HnMqM0BM/Pics-Art-25-08-01-14-37-22-115.png" group-title="Kurdish",K24 FHD
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #EXTINF:0 CUID="8517" tvg-name="Channel 8 HD" tvg-logo="https://i.postimg.cc/Gd1prmrY/c8.png" group-title="Kurdish",Channel 8 HD
@@ -71,9 +71,23 @@ https://6476e46b58f91.streamlock.net/liveTrans/SHOWB234/playlist.m3u8
 #EXTINF:0 CUID="8528" tvg-name="RAVAND-HD" tvg-logo="https://i.postimg.cc/Pq9pCfJk/4989-FD6-C-D31-F-45-F2-AF55-FCAB88896-B19.png" group-title="Kurdish",RAVAND-HD
 http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/HawezHD.m3u8
 #EXTINF:0 CUID="8530" tvg-name="NEW LINE 1" tvg-logo="https://i.postimg.cc/RChphrjs/new1.png" group-title="Kurdish",NEW LINE 1
-http://109.123.245.192/Newline1/index.m3u8
+http://109.71.252.138/newline1/index.m3u8?token=hnaKCXHetrygerteL5cys1
 #EXTINF:0 CUID="8531" tvg-name="NEW LINE 2" tvg-logo="https://i.postimg.cc/pWq1PV15/new2.png" group-title="Kurdish",NEW LINE 2
-http://109.123.245.192/Newline2/index.m3u8
+http://109.71.252.138/Newline2/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-name="Newline Movie" tvg-logo="" group-title="KURDISH",Newline Movie
+http://109.71.252.138/newline1/index.m3u8?token=hnaKCXHetrygerteL5cys1
+
+#EXTINF:-1 tvg-name="Newline Drama" tvg-logo="" group-title="Kurdish",Newline Drama
+http://109.71.252.138//Newlinedrama/index.m3u8?token=hnaKCXHetrygerteL5cys1
+
+#EXTINF:-1 tvg-name="Newline Bollywood" tvg-logo="" group-title="Kurdish",Newline Bollywood
+http://109.71.252.138/Newlineblodey/index.m3u8?token=hnaKCXHetrygerteL5cys1
+
+#EXTINF:-1 tvg-name="Newline Kids" tvg-logo="" group-title="Kurdish",Newline Kids
+http://109.71.252.138/Newlinekids/index.m3u8?token=hnaKCXHetrygerteL5cys1
+
+#EXTINF:-1 tvg-name="Newline Sport" tvg-logo="" group-title="Kurdish",Newline Sport
+http://109.71.252.138/Nwinesport/index.m3u8?token=hnaKCXHetrygerteL5cys1
 #EXTINF:0 CUID="8532" tvg-name="ZED TV" tvg-logo="https://i.postimg.cc/bz5zzyXF/ZED.png" group-title="Kurdish",ZED TV
 http://109.123.245.192/Zedtv/index.m3u8
 #EXTINF:0 CUID="8533" tvg-name="ZED TV PLUS" tvg-logo="https://i.postimg.cc/9c7dVy3G/zedplus.png" group-title="Kurdish",ZED TV PLUS
@@ -362,8 +376,6 @@ http://93.186.201.144:8080/live/Aso0/aso/23322.ts?token=SUYNUUNYG1lEUwdWAVEGUAIE
 http://93.186.201.104:8080/live/Aso0/aso/24172.ts?token=SUYNUUNYG1lEBFVbUgdcUQNRD1dWVlQAVFZTBlAAAVBQVlAECVMKBVUTT0EXEhcBVFhnClZGW1RSAlQAGhdBR1cWOllUEgNBVwJQVFZESUZBXFUGEF5QUVAEWwoEAQ0NHkYVWVQSA0FVAVNVVVVRRhkXXRtGARMIB188VlNDXVdXRl9eRVxVT0ReDTwAAwgFW1EaWRBVQ0pEWhBCFA9aQV4ISRJSWU0RB0UGQV5EV1YHARpPEAcOEwhHEUsUDxZ9Y0ZJElVITQYIQgoMCkRfRkFGGk8QDRI5FFYQRkRQVVlXFkcKEgAbT0RcAhs7BQoKW1BbF1sLDxVECUEDBgUEFh5GCF9eWU0MFG4TCgBEX0YCBQ9RCkYc
 #EXTINF:0 CUID="10021" tvg-name="Chihan" tvg-logo="https://yt3.googleusercontent.com/xZcD23zdbAHrKgHtbRi6xR-ZigxhgLfxZQ5z-aJstkmjWvZBpcFPo6-JEjSPU38hOwdlrZ0pIw=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish",Chihan
 http://firstclass007.com:8080/play/live.php?mac=00:2A:01:91:78:68&stream=802149&extension=ts&play_token=Eh4kOocf0S
-#EXTINF:0 CUID="10021" tvg-name="dtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/DTV_logo.svg/500px-DTV_logo.svg.png" group-title="Kurdish",dtv
-http://new.vivatvs.uk:8080/live/c18zdcfgor/p0tqfl03fz/456279.ts
 
 ######################
 #  Kurdish Kids
@@ -435,19 +447,13 @@ http://5tv.pro:80/play/live.php?mac=00:1A:79:B5:95:7B&stream=1858982&extension=t
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/HawezHD.m3u8
 #EXTINF:0 CUID="6" tvg-name="Behrain Sport 2" tvg-logo="https://yt3.googleusercontent.com/JRqbvxLFxDqf2SRwifeqTa893H3_IezOnOZOd2eavTYmnEf01fwm3SSlmefWCRKNwSr_iz6_kmg=s900-c-k-c0x00ffffff-no-rj" group-title="Sport VIP",Behrain Sport 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/HawezHD.m3u8
-#EXTINF:0 CUID="14" tvg-name="Dubai Sport 2" tvg-logo="http://widget.ottplayer.tv/upictures/44b7bc3d-e696-4e16-977a-fae183058376.png" group-title="Sport VIP",Dubai Sport 2
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:0 CUID="15" tvg-name="Dubai Sport 3" tvg-logo="http://widget.ottplayer.tv/upictures/44b7bc3d-e696-4e16-977a-fae183058376.png" group-title="Sport VIP",Dubai Sport 3
-#EXTINF:0 CUID="34" tvg-name="Kurdistan Sport" tvg-logo="https://i.ibb.co/bMfxRR7W/Chat-GPT-Image-Dec-6-2025-04-27-01-PM.png" group-title="Sport VIP",Kurdistan Sport
-http://109.71.252.138/nrtsport/index.m3u8?token=hnaKCXHetrygerteL5cys1
 #EXTINF:0 CUID="48" tvg-name="Real Madrid" tvg-logo="https://fusion.molotov.tv/arts/i/446x588/Ch8SHQoUUdgCAnSzOu3aFKZNFjXccHt3u4USA2pwZxgBCh8IARIbChTvLK177vsQceQNEQ8W-Bo58gs1-BIDcG5n/jpg" group-title="Sport VIP",Real Madrid
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:0 CUID="5" tvg-name="MMN Sport" tvg-logo="https://karwan.tv/wp-content/uploads/mmn-tv.png" group-title="Sport VIP",MMN Sport 
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w29500582.m3u8
 #EXTINF:0 CUID="5" tvg-name="Nrt Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUd9RbEegspsrdEn_7zcZ7FETJEncHGDE-OQ&s" group-title="Sport VIP",Nrt Sport 
 http://109.71.252.138/nrtsport/index.m3u8?token=hnaKCXHetrygerteL5cys1
-#EXTINF:0 CUID="5" tvg-name="Mix Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUd9RbEegspsrdEn_7zcZ7FETJEncHGDE-OQ&s" group-title="Sport VIP",Mix Sport 
-http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
+
 ######################
 #  Bein VIP
 ######################
