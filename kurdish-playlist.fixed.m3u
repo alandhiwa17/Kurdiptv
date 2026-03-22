@@ -446,8 +446,8 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w29500582.m3u8
 #EXTINF:0 CUID="5" tvg-name="Nrt Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUd9RbEegspsrdEn_7zcZ7FETJEncHGDE-OQ&s" group-title="Sport VIP",Nrt Sport 
 http://109.71.252.138/nrtsport/index.m3u8?token=hnaKCXHetrygerteL5cys1
-EXTINF:-1 tvg-name="Bein Sport 1" tvg-logo="" group-title="Sport VIP",Bein Sport 1
-http://sportook.online/BEIN-S1/video.m3u8
+#EXTINF:0 CUID="5" tvg-name="Mix Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUd9RbEegspsrdEn_7zcZ7FETJEncHGDE-OQ&s" group-title="Sport VIP",Mix Sport 
+http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
 ######################
 #  Bein VIP
 ######################
